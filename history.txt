@@ -1,0 +1,2 @@
+0.0.1 - 2025-03-17 - John Regan
+	New: Initial release of Code Sample Plugin
