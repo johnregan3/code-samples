@@ -1,0 +1,16 @@
+.distignore
+.git
+.github
+.gitignore
+.gitmodules
+.eslintignore
+.eslintrc.js
+.npmrc
+.nvmrc
+.vscode
+.idea
+composer.lock
+node_modules
+package-lock.json
+phpcs.xml.dist
+webpack.config.js
